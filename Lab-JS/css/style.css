@@ -1,0 +1,13 @@
+.textArea{
+  resize: none !important;
+}
+
+.custom{
+  width: 5rem;
+  margin-bottom: 5rem !important;
+}
+
+.card{
+  margin-top: 0.5rem !important;
+  margin: 1rem;
+}
